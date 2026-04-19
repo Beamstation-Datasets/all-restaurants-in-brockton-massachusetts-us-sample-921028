@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Brockton, Massachusetts with a population of over 105k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Brockton, Massachusetts, US",
-  "export_job_id": "5aceaa86-9646-41df-af22-9ab4ff7e6b51",
+  "export_job_id": "5a8c6b63-dbb6-4835-b28c-dcd5c9b0e107",
   "github_org": "Beamstation-Datasets",
   "id_short": 921028,
   "location_name": "Brockton",
   "location_type": "city",
   "repo_name": "all-restaurants-in-brockton-massachusetts-us-sample-921028",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/921028/beamstation_921028_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_pct": 9.93,
+  "sample_pct": 10.0,
   "sample_records": 29,
   "sample_sha256": "1f6ec9de9b793d3661561611d6853bcc8912c4f3b147b521095c80735b07096d",
   "sample_size_bytes": 110912,
-  "total_records": 292,
-  "updated_at": "2026-04-09T12:23:53.974888+00:00"
+  "total_records": 290,
+  "updated_at": "2026-04-16T12:25:04.366762+00:00"
 }
