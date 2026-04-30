@@ -1,12 +1,12 @@
 {
-  "export_job_id": "74dc0f78-05c0-4f0a-bb50-3af530ee643e",
+  "export_job_id": "525872d6-ab8d-4a65-9f1e-d9f5a4f2b3e2",
   "id_short": 921028,
-  "published_at": "2026-04-23T19:15:13Z",
+  "published_at": "2026-04-30T19:19:38Z",
   "repo_name": "all-restaurants-in-brockton-massachusetts-us-sample-921028",
   "sample_asset_name": "beamstation_921028_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/921028/beamstation_921028_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 22,
-  "sample_sha256": "c080496f8db043bf05df50526c1f2ff240e51434b4118cd6f19d0c42a32bed6c",
-  "sample_size_bytes": 92645,
-  "total_records": 228
+  "sample_records": 29,
+  "sample_sha256": "5c4f768fa943eabeab77aa0ba26f10961790e62378c912fe4967c8b12011de0b",
+  "sample_size_bytes": 100083,
+  "total_records": 294
 }
