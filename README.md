@@ -1,6 +1,6 @@
 # All Restaurants in Brockton, Massachusetts, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `921028` |
 | Location | Brockton |
 | Category | Restaurants |
-| Full dataset size | 228 records |
-| Free sample size | 22 records (9.65%) |
-| Last export | 2026-04-23T11:48:31.451920+00:00 |
+| Full dataset size | 294 records |
+| Free sample size | 29 records (9.86%) |
+| Last export | 2026-04-30T11:53:10.918996+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-brockton-massachusetts-us-sample-921028/releases/download/sample-latest/beamstation_921028_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
